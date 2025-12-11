@@ -31,7 +31,7 @@ Backend robusto para una plataforma de comercio electrónico, desarrollado con J
 
 1.  Clonar el repositorio:
     ```bash
-    git clone [https://github.com/FrancoNos/ecommerce-backend.git](https://github.com/FrancoNos/ecommerce-backend.git)
+    git clone https://github.com/FrancoNos/ecommerce-backend.git
     ```
 2.  Configurar la base de datos en `application.properties`.
 3.  Ejecutar el proyecto con Maven o desde IntelliJ.
