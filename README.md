@@ -16,10 +16,10 @@ Backend robusto para una plataforma de comercio electrónico, desarrollado con J
 ## 📸 Capturas de Pantalla
 
 ### Vista Principal del Proyecto
-![Página Principal](./PAGINA-PRINCIPAL.png)
+![Página Principal](./assets/PAGINA-PRINCIPAL.png)
 
 ### Prueba de Creación de Producto (Backend)
-![Post Producto](./POST-PRODUCTO.png)
+![Post Producto](./assets/POST-PRODUCTO.png)
 ## 🛠️ Tecnologías
 
 * **Lenguaje:** Java 17
