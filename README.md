@@ -37,4 +37,4 @@ Backend robusto para una plataforma de comercio electrónico, desarrollado con J
 3.  Ejecutar el proyecto con Maven o desde IntelliJ.
 
 ---
-Hecho con ❤️ por [Franco Tejada]
+Hecho con ❤️ por Franco Tejada
